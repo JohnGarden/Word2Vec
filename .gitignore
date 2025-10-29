@@ -1,0 +1,4 @@
+# Ignore Datasets
+# teste.csv
+# treino.csv
+*.csv
