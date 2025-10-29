@@ -2,3 +2,5 @@
 # teste.csv
 # treino.csv
 *.csv
+# Ignore model files
+*.txt
